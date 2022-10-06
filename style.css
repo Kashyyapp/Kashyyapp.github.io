@@ -491,6 +491,7 @@ nav .fas{
     .services-list div p{
         font-size: 15px;
         color: #080808;
+        padding-bottom: 13px;
     }
 
     .services-list div a{
@@ -565,6 +566,7 @@ nav .fas{
     nav .fas{
         display: block;
         font-size: 25px;
+        padding-right: 10px;
     }
 
     nav ul{
