@@ -286,6 +286,7 @@ nav ul li a:hover::after{
     text-align: center;
     font-size: 14px;
     transition: height 0.5s;
+    color: white;
 }
 
 .layer h3{
@@ -534,7 +535,7 @@ form input, form textarea{
     }
 
     .contact-left h1{
-        color: wheat;
+        color: red;
         font-size: 30px;
         font-weight: 600px;
     }
@@ -668,6 +669,7 @@ form input, form textarea{
     .contact-left h1{
         font-size: 45px;
         padding-top: 0px;
+        color: red;
     }
 
     .contact-left p{
@@ -701,7 +703,7 @@ form input, form textarea{
         color: #fff;
         font-size: 15px;
     }
-
+    
 }
 
 #msg{
