@@ -412,6 +412,10 @@ form input, form textarea{
     margin-top: 20px;
 }
 
+nav .fas{
+    display: none;
+}
+
 /*------------CSS FOR SMALL SCREEN----------*/
 
 @media only screen and (max-width: 600px){
