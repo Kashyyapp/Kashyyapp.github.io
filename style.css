@@ -583,6 +583,15 @@ form input, form textarea{
         flex-basis: 100%;
         overflow-y: hidden;
     }
+     .copyright{
+        color: #fff;
+    }
+    
+
+    .services-list div p{
+        color: #fff;
+        font-size: 15px;
+    }
 
 
 }
@@ -681,6 +690,16 @@ form input, form textarea{
     .contact-right{
         flex-basis: 100%;
         overflow-y: hidden;
+    }
+    
+     .copyright{
+        color: #fff;
+    }
+    
+
+    .services-list div p{
+        color: #fff;
+        font-size: 15px;
     }
 
 }
